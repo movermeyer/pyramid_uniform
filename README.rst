@@ -5,9 +5,9 @@ pyramid_uniform - Form handling for Pyramid
     :target: http://travis-ci.org/storborg/pyramid_uniform
 .. image:: https://coveralls.io/repos/storborg/pyramid_uniform/badge.png?branch=master
     :target: https://coveralls.io/r/storborg/pyramid_uniform
-.. image:: https://pypip.in/v/pyramid_uniform/badge.png
+.. image:: https://img.shields.io/pypi/v/pyramid_uniform.svg
     :target: https://crate.io/packages/pyramid_uniform
-.. image:: https://pypip.in/d/pyramid_uniform/badge.png
+.. image:: https://img.shields.io/pypi/dm/pyramid_uniform.svg
     :target: https://crate.io/packages/pyramid_uniform
 
 Scott Torborg - `Cart Logic <http://www.cartlogic.com>`_
